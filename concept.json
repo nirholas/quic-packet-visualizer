@@ -1,0 +1,11 @@
+{
+  "slug": "quic-packet-visualizer",
+  "name": "QUIC Packet Visualizer",
+  "kind": "tooling",
+  "description": "Visualize how a 4 KiB transaction spans frames and why retransmits matter.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}

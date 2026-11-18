@@ -8,7 +8,7 @@ Visualize how a 4 KiB transaction spans frames and why retransmits matter.
 
 - Source: https://github.com/nirholas/quic-packet-visualizer
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
